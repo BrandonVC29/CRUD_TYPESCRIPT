@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "azle": "^0.18.4",
+    "bignumber.js": "^9.1.2"
+  }
+}

@@ -1,0 +1,8 @@
+service: () -> {
+    addLike: (text) -> (text);
+    deleteMessage: (text) -> ();
+    getLikes: (text) -> (text) query;
+    getMessage: (text) -> (text) query;
+    setMessage: (text, text) -> ();
+    updateMessage: (text, text) -> ();
+}
